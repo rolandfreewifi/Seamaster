@@ -52,4 +52,8 @@ struct QuizBrain {
         return totalScore
     }
     
+    func testBranch() {
+        
+    }
+    
 }
